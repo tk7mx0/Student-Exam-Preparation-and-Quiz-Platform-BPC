@@ -1,2 +1,1 @@
-# Student-Exam-Preparation-and-Quiz-Platform-BPC
-An app for Exams and Quizzes for Bulacan Polytechnic College.
+StudyQuiz BPC: an Android app for exam preparation and quizzes, made for students of Bulacan Polytechnic College. Practice, take quizzes, and track your progress anytime on your phone.
